@@ -9,6 +9,18 @@ SWI-Prolog and compares the output line by line.
 Every transcript in the book was produced by this replay under SWI-Prolog
 9.0.4; `sh tools/verify_all.sh` repeats it (33 files, 2,367 checks).
 
+The book is also published in three volumes with the same chapter numbers:
+
+| Volume | Chapters |
+|---|---|
+| 1. Prolog from the Ground Up | 1–14 |
+| 2. Memory Dump Analysis Patterns | 15, 17, 18–23, 29–31 |
+| 3. Trace and Log Analysis Patterns | 16, 17, 24–28 |
+
+The files here serve every edition: `src/NN-slug.md` and `programs/chNN/` are
+named by chapter number, and the code of each chapter is the same in the
+complete book and in its volume.
+
 ## Layout
 
 | Path | Contents |
