@@ -288,7 +288,7 @@ C = 0.
 true.
 ```
 
-### 25.4.1 A boundary check: the window width
+### 25.4.1 A Boundary Check: The Window Width
 
 ```{.prolog .query}
 ?- catch(window(0.5, _, _), error(E, _), true).

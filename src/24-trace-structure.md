@@ -477,7 +477,7 @@ F = [71].
 true.
 ```
 
-### 24.9.1 A boundary check: the frame size
+### 24.9.1 A Boundary Check: The Frame Size
 
 ```{.prolog .query}
 ?- catch(trace_frames(0, _), error(E, _), true).
@@ -844,7 +844,7 @@ L = 33.
 true.
 ```
 
-### 24.18.1 A boundary check: first occurrences
+### 24.18.1 A Boundary Check: First Occurrences
 
 ```{.prolog .query}
 ?- keysort([b-2, a-3, b-1, a-1], S).

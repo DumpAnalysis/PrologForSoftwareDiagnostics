@@ -1,6 +1,6 @@
 % 25-07.pl
 % From "Prolog for Pattern-Oriented Software Diagnostics",
-% Chapter 25. Time: 25.4.1 A boundary check: the window width.
+% Chapter 25. Time: 25.4.1 A Boundary Check: The Window Width.
 % Program block 7 of the chapter.
 
 % statement_density(Template, From, To, Density):
